@@ -1,8 +1,10 @@
-package com.example.apiintegrationjava;
+package com.example.apiintegrationjava.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.apiintegrationjava.R;
 
 public class MainActivity extends AppCompatActivity {
 
